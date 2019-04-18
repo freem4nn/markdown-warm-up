@@ -1,7 +1,7 @@
-#Assignment MarkDown
+# Assignment MarkDown
 ---
-**What website did you find (url, name,...)**
-http://www.treasure-pot.be/
+** What website did you find (url, name,...) **
+  http://www.treasure-pot.be/
 ---
 **Does it get regular updates ?**
 No
@@ -15,7 +15,7 @@ No
 *not really but it has a following on facebook(most of them containing negative feedback)*
 ---
 **Make a list with the top three things you would change and explain why those three specifically**
-*Better CSS
++Better CSS
 *Maybe own order system or link to just eat
 *Layout*
 *background color*
